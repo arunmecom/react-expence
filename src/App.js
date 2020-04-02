@@ -15,7 +15,7 @@ function App() {
       <Header />
       <div className="container">
         <Balance />
-        <IncomeExpenses />
+        <IncomeExpenses data-attr="xyz"/>
         <TransactionList />
         <AddTransaction />
       </div>
